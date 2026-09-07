@@ -1,0 +1,28 @@
+{"query_id": "q01", "query": "why does the model never call my tool", "relevant": ["d01"], "kind": "paraphrase"}
+{"query_id": "q02", "query": "destructiveHint annotation trust", "relevant": ["d04"], "kind": "lexical"}
+{"query_id": "q03", "query": "should I ask a human before every single action", "relevant": ["d06", "d05"], "kind": "paraphrase"}
+{"query_id": "q04", "query": "how do I suspend an agent halfway through and resume it later", "relevant": ["d07"], "kind": "paraphrase"}
+{"query_id": "q05", "query": "the agent keeps retrying something I already rejected", "relevant": ["d09", "d10"], "kind": "paraphrase"}
+{"query_id": "q06", "query": "spawn_agent recursion depth", "relevant": ["d15", "d11"], "kind": "lexical"}
+{"query_id": "q07", "query": "why did one worker burn all the tokens and find nothing", "relevant": ["d12", "d13"], "kind": "paraphrase"}
+{"query_id": "q08", "query": "MAX_CONCURRENT MAX_SPAWNS budget", "relevant": ["d16", "d14"], "kind": "lexical"}
+{"query_id": "q09", "query": "who pays when a server borrows my model", "relevant": ["d18", "d23"], "kind": "paraphrase"}
+{"query_id": "q10", "query": "requestState is attacker controlled", "relevant": ["d22"], "kind": "lexical"}
+{"query_id": "q11", "query": "stopping an expensive call before any money is spent", "relevant": ["d19", "d20"], "kind": "paraphrase"}
+{"query_id": "q12", "query": "my search returns nothing even though the document is there", "relevant": ["d24", "d25"], "kind": "paraphrase"}
+{"query_id": "q13", "query": "top n instead of a similarity threshold", "relevant": ["d26", "d24"], "kind": "lexical"}
+{"query_id": "q14", "query": "how do I stop it making things up when the context is thin", "relevant": ["d27", "d28"], "kind": "paraphrase"}
+{"query_id": "q15", "query": "security definer bypasses row level security", "relevant": ["d32", "d30"], "kind": "lexical"}
+{"query_id": "q16", "query": "can another customer see my uploaded files", "relevant": ["d33", "d31"], "kind": "paraphrase"}
+{"query_id": "q17", "query": "cache_control breakpoint byte identical prefix", "relevant": ["d35", "d34"], "kind": "lexical"}
+{"query_id": "q18", "query": "my token counts dropped after turning caching on, is that a bug", "relevant": ["d36", "d37"], "kind": "paraphrase"}
+{"query_id": "q19", "query": "testing a loop that never terminates without calling the model", "relevant": ["d40", "d39"], "kind": "paraphrase"}
+{"query_id": "q20", "query": "one transient failure killed the whole background job", "relevant": ["d41", "d43"], "kind": "paraphrase"}
+{"query_id": "q21", "query": "idempotency retries duplicate row", "relevant": ["d42"], "kind": "lexical"}
+{"query_id": "q22", "query": "should the extractor return zero when it cannot find the total", "relevant": ["d45"], "kind": "paraphrase"}
+{"query_id": "q23", "query": "model wrapped the JSON in markdown fences", "relevant": ["d47", "d46"], "kind": "lexical"}
+{"query_id": "q24", "query": "what did enterprise integration get right that agents keep rediscovering", "relevant": ["d50", "d49"], "kind": "paraphrase"}
+{"query_id": "q25", "query": "cross-encoder versus bi-encoder tradeoff", "relevant": ["d54", "d55"], "kind": "lexical"}
+{"query_id": "q26", "query": "why not just add the two retrieval scores together", "relevant": ["d57"], "kind": "paraphrase"}
+{"query_id": "q27", "query": "which metric actually shows a reranker helping", "relevant": ["d59"], "kind": "paraphrase"}
+{"query_id": "q28", "query": "long chunks keep winning the search", "relevant": ["d56", "d29"], "kind": "paraphrase"}
