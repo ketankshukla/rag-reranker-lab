@@ -1,0 +1,46 @@
+{
+  "absent": [
+    "formatter configuration (tool defaults used)"
+  ],
+  "commit": "230b8304eba3a5bd3c97e2172eabc612b5d838e0",
+  "lint": {
+    "scripts/run_eval.py": 1
+  },
+  "recorded": "2026-10-12T06:36:50Z",
+  "roots": {
+    ".": {
+      "install": "pass",
+      "lockfile": "absent",
+      "malware": "pass",
+      "resolved": "2026-10-12",
+      "shape": "requirements",
+      "tests": "not run: owner declined",
+      "vuln": "pass"
+    }
+  },
+  "run": {
+    "env": {
+      "CI": "true"
+    },
+    "step_limit_seconds": 1800
+  },
+  "schema": 1,
+  "steps": {
+    "format": "fail",
+    "lint": "fail",
+    "secrets": "pass"
+  },
+  "tools": {
+    "format": {
+      "python": "ruff 0.16.8 (standard)"
+    },
+    "lint": {
+      "python": "ruff 0.16.8 (standard)"
+    }
+  },
+  "unformatted": [
+    "scripts/run_eval.py",
+    "src/rag_reranker_lab/evaluate.py",
+    "src/rag_reranker_lab/retrievers.py"
+  ]
+}
